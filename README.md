@@ -1,2 +1,4 @@
 # hello-world
-A simple hello-world repository
+a simple hello-world repository
+
+just checking how GitHub works
